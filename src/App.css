@@ -1,0 +1,14 @@
+body,
+html {
+  text-align: center;
+  color: #fdfffc;
+  background: #051522;
+  height: 100%;
+}
+.input-group {
+  width: 300px;
+  margin: 0 auto 0 auto;
+}
+.err {
+  color: rgb(199, 25, 25);
+}
